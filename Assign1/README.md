@@ -23,3 +23,12 @@ How can you i dentify that a datatype is a string?
 Giving the String "Mummy Naheem is a trader. She is a very nice, brilliant, intelligent woman. She runs her business with honesty and dedication. Every morning, she opens her shop early and greets her customers with a warm smile. Her ability to manage finances and stock is admirable. Children love her because she always shares kind words and sometimes sweets. Her community respects her deeply. Mummy Naheem believes in hard work and fairness, and she inspires many young women to become successful entrepreneurs like her" (write the codes) I. save the string in a variable II. find the length of the string III. convert the string to uppercase IV. convert the string to lowerscase V. state which string is at A. index 50 B. index 5 C. index -50 VI. remove all leading and trailing spaces VII. write a code using the substr method or slice or substring to produce the following SUBSTRINGS as output A. "Mummy Naheem" B. "MUMMY NAHEEM" C. "MUMMYNAHEEM" D. "Her ability to manage finances and stock is admirable" E. "she inspires many young women to become successful entrepreneurs like her" F. "Children love her because she always shares kind words and sometimes sweets" VII. use the indexOf method, lastIndexOf method, charAt method and charCodeAt any where you like on the VARIABLE you created above. 
 
 USE the I. alert Interaction II. console (browser or terminal console) to change Mummy to Daddy, She to He, she to he, Her to His, her to his in the string where necessary
+
+What is the relationship between the last index of the string and the length of the string
+
+
+using the Math object; Giving const a = 5986.94374637 I. roundup a II. roundown a c. compute a random number between a and 7000 d. find the value of sin(a), cos(a), tan(a) if a is in I. degree and II. radian
+
+Giving the string "sin, cos, tan, sec, cosec, cot" write a single line of code that convert this string to an array at the comma. II. check if the string includes β III. Replace all comma with ɸ IV. Determine the position of the first and last ɸ
+
+
